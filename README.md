@@ -5,7 +5,7 @@ Homework #1: Contains SumOfDigits, PrintDivisors, and GetBinomialCoefficient fun
 
 Homework #2: Contains IsDecimalInteger, GetSortingOrder, and RemoveExtraSpaces functions.
 
-Homework #3:
+Homework #3: Contains CountWords, and fix_sorted_array functions.
 
 Homework #4:
 
