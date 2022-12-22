@@ -3,7 +3,7 @@ Introduction to Programming with C: Programming in C including arrays, pointer m
 
 Homework #1: Contains SumOfDigits, PrintDivisors, and GetBinomialCoefficient functions.
 
-Homework #2:
+Homework #2: Contains IsDecimalInteger, GetSortingOrder, and RemoveExtraSpaces functions.
 
 Homework #3:
 
