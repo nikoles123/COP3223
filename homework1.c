@@ -1,5 +1,4 @@
 //Nikole Solano
-//NID: 5252251
 //Homework 1 "homework1.c"
 //COP3223C Section 1, Fall 2020
 
