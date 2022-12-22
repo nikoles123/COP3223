@@ -7,6 +7,6 @@ Homework #2: Contains IsDecimalInteger, GetSortingOrder, and RemoveExtraSpaces f
 
 Homework #3: Contains CountWords, and fix_sorted_array functions.
 
-Homework #4:
+Homework #4: Contains MultiplyCIntegers, and GetFactorial functions.
 
 Homework #5:
