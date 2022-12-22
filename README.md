@@ -5,8 +5,8 @@ Homework #1: Contains SumOfDigits, PrintDivisors, and GetBinomialCoefficient fun
 
 Homework #2: Contains IsDecimalInteger, GetSortingOrder, and RemoveExtraSpaces functions.
 
-Homework #3: Contains CountWords, and fix_sorted_array functions.
+Homework #3: Contains CountWords and fix_sorted_array functions.
 
-Homework #4: Contains MultiplyCIntegers, and GetFactorial functions.
+Homework #4: Contains MultiplyCIntegers and GetFactorial functions.
 
-Homework #5:
+Homework #5: Contains PrintDeptPayrollRecords and SaveDeptPayrollRecordsToFile functions. 
